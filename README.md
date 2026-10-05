@@ -13,7 +13,7 @@ The Dashboard includes:
 # View the Dashboard
 
 
-# key insights
+# Key insights
 - Halloween Activity increased significantly from 2008 to 2011.
 - The highest recorded activity was in 2011, with a count of 869.
 - Activity declined after 2011, reaching 391 in 2013.
