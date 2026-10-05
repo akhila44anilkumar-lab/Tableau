@@ -1,1 +1,1 @@
-# Tableau
+Interactive tableau dashboard exploring Halloween activity participation from 2008 to 2014. Includes a participation overview line chart, yearly trend bar chart, count-by-year horizontal bar chart, and a forecasted trend line projecting through 2015.
